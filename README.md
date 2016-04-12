@@ -34,6 +34,3 @@ Time spent: `20`
 
 ![Video Walkthrough](...)
 
-
-
-
