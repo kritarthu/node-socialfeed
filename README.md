@@ -32,5 +32,5 @@ Time spent: `20`
 
 ### Walkthrough
 
-![Video Walkthrough](...)
+![Video Walkthrough](lab3.gif)
 
